@@ -9,6 +9,8 @@ I made this project just for fun; it allows you to create nice and simple GitHub
 ## 🛠️ About Me
 Hi, I'm **Arafat Islam**, a passionate web developer with expertise in building dynamic and responsive web applications. I enjoy working with modern web technologies and constantly strive to learn new skills to stay updated in the ever-evolving tech industry.
 
+I specialize in React, JavaScript, Node.js, and various other web technologies. My goal is to create seamless and user-friendly web experiences. When I'm not coding, I love exploring new frameworks and contributing to open-source projects.
+
 - 🔭 I’m currently working on exciting projects in **web development**, where I contribute to building innovative and impactful solutions.
 - 🌱 I’m currently diving deep into **Firebase** and **Next.js** to enhance my full-stack development skills.
 - 👯 I’m looking to collaborate on **GitHub** with like-minded developers and open-source enthusiasts.
