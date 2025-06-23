@@ -16,12 +16,15 @@
 
 I’m **Arafat Islam**, a self-driven web developer with a passion for turning ideas into impactful web experiences. My journey is deeply rooted in the **MERN Stack**, and I enjoy solving real-world problems through clean, maintainable code.
 
+---
 ✨ **Current Focus**: Practicing **Next.js** and **Redux Toolkit** to extend my full-stack skills
+
 🎯 **Goal**: Contribute to open-source and build a strong community around innovative tech
+
 🌱 **Learning**: **Google Maps API**, **state management patterns**, and **scalable REST architectures**
+
 🌟 **Fun Fact**: I love exploring performance optimization techniques and JavaScript quirks!
 
----
 
 ## 💼 What I’m Working On
 
@@ -79,7 +82,7 @@ I’m **Arafat Islam**, a self-driven web developer with a passion for turning i
   <a href="https://github.com/arafat20mupi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arafatislam03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/arafat_isl49899"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/arafatislamsani169"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/DevArafatIslam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
